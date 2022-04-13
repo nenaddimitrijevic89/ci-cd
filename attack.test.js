@@ -1,3 +1,5 @@
+import { test, expect } from 'jest';
+
 const attack = require('./attack');
 
 test('should return damage sentence when called correctly', () => {
