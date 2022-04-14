@@ -1,3 +1,3 @@
-const attack = require('./attack');
+import attack from './attack';
 
 attack('Smelly Ogre', 23);
